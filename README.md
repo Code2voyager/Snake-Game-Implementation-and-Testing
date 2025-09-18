@@ -1,12 +1,23 @@
-# React + Vite
+Snake Game – React + Vite
+A classic Snake Game built with React and Vite, featuring end-to-end testing using Vite’s testing tools. This project demonstrates frontend development, functional programming practices, and production-quality testing.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features:
+1)Smooth, playable Snake Game with score tracking
 
-Currently, two official plugins are available:
+2)Increasing difficulty as the snake grows
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3)Testing with Vite + your testing framework to ensure game logic, UI, and reliability
 
-## Expanding the ESLint configuration
+4)Tech Stack-> Frontend: React, Vite, TypeScript/JavaScript, HTML, CSS
+               Testing: Vite-powered tests covering snake movement, collision detection, score updates, and game-over logic
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Installation & Run
+git clone https://github.com/Code2voyager/Snake-Game-Implementation-and-Testing.git
+cd Snake-Game-Implementation-and-Testing
+npm install
+npm run dev
+npm run test
+
+Outcome / Impact:
+1) Developed, tested,and  reliable Snake Game
+2)Showcases ability to build React + Vite apps with testing and maintainable code
